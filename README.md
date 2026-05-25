@@ -1,6 +1,6 @@
 # 🫐 Wild Blueberry Yield Prediction
 
-Machine learning regression project focused on agricultural productivity analysis. Kaggle Playground Series - Season 3, Episode 14
+Machine learning regression project focused on agricultural productivity analysis. **Kaggle Playground Series - Season 3, Episode 14**
 
 ### 🚀 Live Demo
 Test the model here: [Blueberry Yield Prediction App](https://huggingface.co/spaces/bdaser/Blueberry)
